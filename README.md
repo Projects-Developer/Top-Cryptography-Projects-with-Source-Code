@@ -22,3 +22,32 @@ Top 10 Cryptography Projects with Code, Documents And Video Tutorial
 8	Diffie Hellman Key Exchange Algorithm Cryptography Project	:https://youtu.be/KgGjLN0w4Zw?si=XV419oEuZOq2893-
 
 9	GIF Malware Detection Project	                              :https://youtu.be/3JQ9uPETJCQ?si=5Jq5Bd1C3x_Bup6r
+
+
+### Project include: 
+
+1. Synopsis
+
+2. PPT
+
+3. Research Paper
+
+
+4. Code
+
+5. Explanation video
+
+6. Documents
+
+7. Report
+
+
+### Need Code, Documents & Explanation video ? 
+
+## How to Reach me :
+
+### Mail : vatshayan007@gmail.com 
+
+### WhatsApp: +91 9310631437 (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+
+### Website : https://www.finalproject.in/
